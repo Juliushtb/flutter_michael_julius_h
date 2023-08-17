@@ -1,0 +1,1 @@
+belajar intoduction mobile app development, intinya belajar dasar dasar dan mengetahui langkah langkah yang harus kita mulai dan awal awal pemograman.
