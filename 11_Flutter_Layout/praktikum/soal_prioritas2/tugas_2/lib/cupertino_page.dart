@@ -9,12 +9,12 @@ class HomePage extends StatelessWidget{
     return const CupertinoPageScaffold(
        navigationBar :  CupertinoNavigationBar(
 
-     middle:  Text('Home Page'),
+     middle:  Text('CupertinoApp'),
   ),
 
 
 child:  Center(
-  child:Text('Ini adalah home page')
+  child:Text('this is CupertinoApp')
 ),
     );
 
