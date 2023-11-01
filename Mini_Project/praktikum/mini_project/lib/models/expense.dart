@@ -1,9 +1,9 @@
 class Expense {
-  final int id; // unique id for every expense
-  final String title; // what are we spending on
-  final double amount; // how much are we spending
-  final DateTime date; // when are we spending
-  final String category; // which category on we spending
+  final int id; 
+  final String title; 
+  final double amount; 
+  final DateTime date; 
+  final String category; 
 
   // constructor
   Expense({
